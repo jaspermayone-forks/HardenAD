@@ -4,6 +4,7 @@
 .AppleDouble
 .LSOverride
 .vsCode
+.github
 
 # Icon must end with two \r
 Icon
@@ -58,8 +59,8 @@ x86/
 bld/
 [Bb]in/
 [Oo]bj/
-[Ll]og/
-[Ll]ogs/
+#[Ll]og/
+#[Ll]ogs/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
@@ -418,7 +419,7 @@ FodyWeavers.xsd
 
 # Windows Installer files from build outputs
 *.cab
-*.msi
+#*.msi
 *.msix
 *.msm
 *.msp
