@@ -2,6 +2,10 @@
 
 This is the version **2.9.9** of the Hardening Active Directory project by then Harden Community. Please refer to the release update logs to review the change.
 
+# Special Thanks
+A big-Up to **Hugo SANCHEZ**, who worked a lot on this release to deliver a powerfull and efficient edition. Keep-on dude!  
+
+
 # 🔐 Overview
 HardenAD is an open-source toolkit designed to help system and security administrators strengthen the security of Microsoft Active Directory environments. It provides automated checks, actionable recommendations, and remediation scripts to reduce the attack surface and enforce best practices. 
 
