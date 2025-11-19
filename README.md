@@ -1,4 +1,9 @@
-<img src="https://hardenad.net/wp-content/uploads/2021/12/Logo-HARDEN-AD-Horizontal-RVB@4x-300x86.png" align="center">  
+<p align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://hardenad.net/wp-content/uploads/2025/11/Logo-HARDEN-AD-RVB@4x-texte-Blanc.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://hardenad.net/wp-content/uploads/2025/11/Logo-HARDEN-AD-RVB@4x.png">
+  <img src="https://github.com/LoicVeirman/HardenAD/blob/main/Logo_hardenad.png" lign="center"/>
+</picture>
 
 This is the version **2.9.9** of the Hardening Active Directory project by then Harden Community. Please refer to the release update logs to review the change.
 
